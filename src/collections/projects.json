@@ -14,7 +14,7 @@
   {
     "name": "Weather app",
     "description": "A simple weather app in basic js",
-    "image": "public/assets/images/projects/weatherapp.avif",
+    "image": "/assets/images/projects/weatherapp.avif",
     "url": "/"
   }
 ]
